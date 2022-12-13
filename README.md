@@ -13,7 +13,7 @@ Determine the potential state of a person after a given period of time based on 
 Предвидение (vision, foresight, anticipation, foreknowledge, prevision, prescience, clairvoyance, calculation).
 
 Для кого?
-Для людей у которых мало опыта, знаний, навыков определять к чему могут привести те или иные выборы собственных мыслей, слов, действий, инвестиций времени, сил, ресурсов.
+Для людей, у которых мало опыта, знаний, навыков, определять к чему могут привести те или иные выборы собственных мыслей, слов, действий, инвестиций времени, сил, ресурсов.
 
 For whom?
 For people who have little experience, knowledge, skills to determine what certain choices of their own thoughts, words, actions, investments of time, effort, resources can lead to.
